@@ -1,0 +1,143 @@
+.header {
+  background-image: url(http://blackrockdigital.github.io/startbootstrap-clean-blog/img/post-bg.jpg);
+  background-size: cover;
+  background-position: center; 
+  background-repeat: no-repeat;
+  margin-bottom: 20px;
+  height: 650px;
+}
+
+.navbar-default {
+  background-color: transparent;
+  border: none;
+}
+
+.navbar .nav >li {
+  float: left;
+  padding: 10px;
+  color: white;
+  text-decoration: none;
+  font-family: Arial;
+  font-weight: bold;
+  font-size: 20px;
+}
+
+.navbar .nav > li > a {
+    float: none;
+    text-decoration: none;
+    color:  #ddd;
+}
+
+.navbar .navbar-brand {
+    float: left;
+    padding: 20px;
+    text-decoration: none;
+    font-family: Arial;
+    font-weight: bold;
+    color:  #ddd;
+    font-size: 20px;
+}
+
+.left {
+  float: left;
+  margin-top: 10px;
+}
+
+.right {
+  float: right;
+  margin-top: 0px;
+}
+
+
+.caption {
+  font-style: italic;
+  font-family: 'Times New Roman', Times, serif;
+}
+
+.copyright {
+  text-align: center;
+  font-size: 10px;
+}
+
+p {
+    text-align: left;
+    font-size: 22px; 
+    color: black;
+}
+
+span.italic {
+  font-style: italic;
+}
+
+h3 {
+  font-family: Cambria, Cochin, Georgia, Times, Times New Roman, serif;
+  color: white;
+  }
+
+h1 {
+  font-size: 70px;
+  color: white;
+}
+
+h2 {
+  font-size: 50px;
+  color: white;
+}
+
+.container {
+    position: relative;
+}
+
+
+a:link {
+    color: white;
+    text-decoration: none;
+}
+
+a:visited {
+    color: hotpink;
+    text-decoration: none;
+}
+
+a:hover {
+    color: grey;
+    text-decoration: none;
+}
+
+
+
+/* alternative footer*/
+
+.footer {
+  text-align: center;
+}
+/*
+.fa {
+  padding: 10px;
+  font-size: 40px;
+  width: 60px;
+  text-decoration: none;
+  margin-top: 50px;
+  border-radius: 50%;
+  text-align: center;
+  margin-left: 10px;
+  margin-bottom: 20px;
+
+}
+.fa-facebook {
+  background: black;
+  color: white;
+}
+.fa-twitter {
+  background: black;
+  color: white;
+}
+.fa-github {
+  background: black;
+  color: white;
+}
+
+.copyright {
+  text-align: center;
+  font-size: 14px;
+}
